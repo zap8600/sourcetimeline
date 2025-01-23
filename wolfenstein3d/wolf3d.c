@@ -46,7 +46,14 @@ void CheckForEpisodes() {
 }
 
 void InitGame() {
-    //
+    // Gets some paramater that sets a bool called virtual reality to true or false
+    // Sets up a memory manager, shouldn't be needed
+    // Checks for a video card
+    // Sets up an input manager
+    // Sets up a page manager, might be needed for platforms requiring a swap file
+    // Sets up a sound manager, will be optional
+    // Opens all files and loads in headers
+    // Sets up user manager
 }
 
 int main() {
